@@ -1,0 +1,188 @@
+    1  ls
+    2  ls .
+    3  ls -a
+    4  ls images
+    5  ls ./images
+    6  ls/home
+    7  ls/home/niters
+    8  ls /home
+    9  ls /home
+   10  ls ..
+   11  pwd
+   12  cd ..
+   13  cd
+   14  man ls
+   15  ls ~ > home-contents.txt
+   16  ls
+   17  cat home-contents.txt
+   18  q
+   19  rm home-contents.txt
+   20  ls
+   21  ls / > /dev/null
+   22  cat /foo > /tmp/foo.txt
+   23  cat /foo 2> /tmp/foo.txt
+   24  cat > languages.txt
+   25  cat > languages.txt
+   26  clear
+   27  command history
+   28  ls
+   29  cd Documents
+   30  ls
+   31  cd covers
+   32  mkdir -p {Sony,Nintendo,Microsoft,Sega}/{Consoles,Consoles portable}\n\n\n
+   33  mkdir -p Constructeur/{Sony,Nintendo,Microsoft,Sega}/{Consoles,Consoles portable}\n\n\n
+   34  mkdir -p Constructeur/{Sony,Nintendo,Microsoft,Sega}/{Consoles,Consoles portable}\n\n\nls
+   35  ls
+   36  mkdir -p Constructeur/{Sony,Nintendo,Microsoft,Sega}/{Consoles,Consoles portable}\n\n\nls
+   37  mkdir doc
+   38  mkdir man
+   39  mkdir -p Constructeur / {Sony / {Consoles{ / {PS4,PS5}}, {Nintendo / {Consoles{ / {Gamecube}},consoles portable}, {Microsoft / {Consoles{ / {Xbox,Xbox360}}}, {Sega / {Consoles{ / {Dreamcast}}}}
+   40  mkdir -p Constructeur / {Sony / {Consoles{ / {PS4,PS5}}}, {Nintendo / {Consoles{ / Gamecube},consoles portable}, {Microsoft / {Consoles{ / {Xbox,Xbox360}}}, {Sega / {Consoles{ / {Dreamcast}}}}
+   41  mkdir -p Constructeur / {Sony, Nintendo, Microsoft, Sega}
+   42  mkdir -p Constructeur / (Sony, Nintendo, Microsoft, Sega)
+   43  mkdir Constructeur / Sony nintendo Microsoft Sega
+   44  mkdir Constructeur Sony nintendo Microsoft Sega
+   45  ls
+   46  cd..
+   47  cd
+   48  ls
+   49  cd Documents
+   50  ls
+   51  cd covers
+   52  pwd
+   53  ls 
+   54  pwd
+   55  mv -t /users/admin/Documents/covers/constructeur /users/admin/Documents/covers/Sony /users/admin/Documents/covers/Sega /users/admin/Documents/covers/Microsoft /users/admin/Documents/covers/nintendo
+   56  mv Constructeur Microsoft
+   57  mv Constructeur /users/admin/Documents/covers
+   58  rmdir /Microsoft/Constructeur
+   59  cd microsoft
+   60  rmdir Constructeur
+   61  cd ..
+   62  mkdir Constructeur
+   63  mv Microsoft Constructeur
+   64  mv nintendo Constructeur
+   65  mv Segao Constructeur
+   66  mv Sega Constructeur
+   67  mv Sony Constructeur
+   68  cd constructeur
+   69  cd sony
+   70  mkdir Consoles
+   71  cd Consoles
+   72  mkdir PS4 PS5
+   73  cd ..
+   74  cd ..
+   75  cd Nintendo
+   76  mkdir Consoles
+   77  mkdir Consoles-portables
+   78  cd consoles
+   79  mkdir Gamecube
+   80  cd ..
+   81  cd consoles-portables
+   82  mkdir Game-Boy
+   83  cd ..
+   84  cd ..
+   85  cd Microsoft
+   86  mkdir Consoles
+   87  cd Consoles
+   88  mkdir Gamecube
+   89  cd ..
+   90  mkdir Consoles-portables
+   91  cd Consoles-portables
+   92  mkdir Game-Boy
+   93  cd..
+   94  cd ..
+   95  ls
+   96  cd consoles
+   97  ls
+   98  rmdir Gamecube
+   99  mkdir xbox xbox360
+  100  ls
+  101  cd ..
+  102  cd ..
+  103  cd sega
+  104  mkdir consoles
+  105  cd consoles
+  106  mkdir Dreamcast
+  107  pwd
+  108  cd ..
+  109  cd ..
+  110  cd microsoft
+  111  cd consoles
+  112  cd xbox
+  113  pwd
+  114  cd ..
+  115  cd ..
+  116  cd ..
+  117  cd nintendo
+  118  cd consoles
+  119  cd gamecube
+  120  pwd
+  121  cd ..
+  122  cd console-portables
+  123  cd game-boy
+  124  ls
+  125  cd..
+  126  cd ..
+  127  ls
+  128  cd consoles-portables
+  129  ls
+  130  cd game-boy
+  131  pwd
+  132  cd ..
+  133  cd ..
+  134  cd ..
+  135  cd sony
+  136  cd consoles
+  137  cd ps4
+  138  pwd
+  139  cd ..
+  140  cd ..
+  141  cd ..
+  142  cd ..
+  143  mv ps4_fifa14.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  144  playstation_4.unchartedthelostlegacy.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  145  mv playstation_4.unchartedthelostlegacy.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  146  mv /Users/admin/Documents/covers/playstation_5.farcry6.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps5
+  147  mv /Users/admin/Documents/covers/gc_supermariosunshine.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles/gamecube
+  148  mv /Users/admin/Documents/covers/gb_pokemonblue_eu.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles-portables/game-boy
+  149  mv /Users/admin/Documents/covers/gameboy.pokmonred.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles-portables/game-boy
+  150  mv /Users/admin/Documents/covers/xbox_deadtorights.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  151  mv /Users/admin/Documents/covers/xbox_halo_2.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  152  mv /Users/admin/Documents/covers/x360_callfoduty3.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox360
+  153  mv /Users/admin/Documents/covers/x360_callofduty4.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox360
+  154  mv /Users/admin/Documents/covers/dc_jetgrindradio_10.jpg /Users/admin/Documents/covers/constructeur/sega/consoles
+  155  mv /Users/admin/Documents/covers/dc_shenmue_eu.jpg /Users/admin/Documents/covers/constructeur/sega/consoles
+  156  ls
+  157  mv covers/playstation_5* /Users/admin/Documents/covers/constructeur/sony/consoles/ps5
+  158  cd sega
+  159  cd constructeur
+  160  cd sega
+  161  ls
+  162  cd consoles
+  163  ls
+  164  mv dc_jetgrindradio_10.jpg dreamcast
+  165  mv dc_shenmue_eu.jpg Dreamcast
+  166  cd ..
+  167  cd ..
+  168  cd ..
+  169  mv dc_jetsetradio_eu_front.jpg /Users/admin/Documents/covers/constructeur/sega/consoles/dreamcast
+  170  mv dc_shenmueii_5.jpg /Users/admin/Documents/covers/constructeur/sega/consoles/dreamcast
+  171  mv gb_pokemongreen_3.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles-portables/game-boy
+  172  mv gb_pokemonyellow_au.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles-portables/game-boy
+  173  mv gbc_pokemongold.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles-portables/game-boy
+  174  mv gc_mariokartdoubledash.jpg /Users/admin/Documents/covers/constructeur/nintendo/consoles/gamecube
+  175  mv playstation_4.assassinscreedodyssey.jpg/Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  176  mv playstation_4.assassinscreedodyssey.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  177  mv playstation_4.watchdogs2.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps4
+  178  mv playstation_5.assassinscreedvalhalla.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps5
+  179  mv playstation_5.residentevilvillage_.jpg /Users/admin/Documents/covers/constructeur/sony/consoles/ps5
+  180  mv x360_callofduty2.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox360
+  181  mv x360_callofdutyblackopsii.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox360
+  182  mv xbox_360.fableiii.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox360
+  183  mv xbox_deadoralive3.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  184  mv xbox_defjamfightforny.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  185  mv xbox_halo2.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  186  mv xbox_jetsetradiofuture_2.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  187  mv xbox_needforspeedunderground2.jpg /Users/admin/Documents/covers/constructeur/microsoft/consoles/xbox
+  188  history
