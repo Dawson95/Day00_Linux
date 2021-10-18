@@ -1,0 +1,21 @@
+  193  mkdir EX01
+  194  cd EX0
+  195  cd EX01
+  196  bash bonjour.sh
+  197  cat bonjour.sh
+  198  cat > bonjour.sh
+  199  cat bonjour.sh
+  200  cat > bonjour.sh
+  201  ls
+  202  cat bonjour.sh
+  203  cat > bonjour.sh
+  204  ./bonjour.sh
+  205  cat bonjour.sh
+  206  chmod 744 bonjour.sh
+  207  ./bonjour.sh
+  208  ./bonjour.sh
+  209  cat bonjour.sh
+  210  cat >  bonjour.sh
+  211  ./bonjour.sh
+  212  history
+  213  history 170
