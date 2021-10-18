@@ -1,0 +1,2 @@
+sed '$d' deposition_Joe_Rugiani.txt | sed '$d' > temp.txt
+cp temp.txt deposition_Joe_Rugiani.txt
