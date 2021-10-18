@@ -19,3 +19,9 @@
   211  ./bonjour.sh
   212  history
   213  history 170
+  214  history 193 > commands.txt
+  215  ls
+  216  ./bonjour.sh
+  217  ./bonjour.sh
+  218  ls
+  219  chmod 777 bonjour.sh
